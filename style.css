@@ -1,0 +1,48 @@
+body {
+    background-color: #000000;
+}
+h1 {
+    text-align: center;
+    background-color: blue;
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 10px solid #000000;
+}
+
+h2{
+    text-align: left;
+    size: 2cm;
+    color: #f8f4f4;
+    background-color: #000000;
+    font-size:smaller;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div #starters_image_div{
+text-align: center;
+border: #3f0abc;
+background: #000000;
+}
+
+div .listdiv{
+    color: #f8f4f4;
+}
+
+.all_pokemon_container{
+    text-align: center;
+}
+
+.pokemon_description{
+    color: aliceblue;
+    background-color: #f93b4b;
+    border: #e9dfdf;
+    border-radius: 3cqw;
+}
+ul{
+    color: #f8f4f4;
+}
+
+.pokemon_images{
+    size: 0cqmax;
+    width: 200px;
+}
